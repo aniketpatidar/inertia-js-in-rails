@@ -1,0 +1,1 @@
+# -inertia-js-in-rails
